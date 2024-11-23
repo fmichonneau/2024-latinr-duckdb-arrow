@@ -7,9 +7,14 @@ their book "[Scaling Up With R and Arrow](https://arrowrbook.com/)". Many of the
 code examples used in this tutorial have been inspired by the ones used in their
 book.
 
+## Content of the repository
 
-Once the tutorial is over, a file named `solutions.R` will be added to the
-repository with the code used in the tutorial, and a link to the slideshow will
-also be added.
+* `code.R` is the file you can use to follow along with the talk
+* `solutions.R` is the file for the code that used during the tutorial. It also
+  includes a few extra practice exercises and answers to questions that were
+  asked at the tutorial.
 
+The [slides](https://docs.google.com/presentation/d/e/2PACX-1vTLPVZWcJH-1e3KxMrIx14ab8KFTGL1pw2eQJDziEI3-8cyuvUxCkFFEXhJ9-YmnvbxTD4thiRt9QQF/pub?start=false&loop=false&delayms=10000) for the tutorial are available.
+
+When the recording for the tutorial becomes available, I'll add the link here.
 
