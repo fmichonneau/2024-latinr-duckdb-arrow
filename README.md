@@ -9,8 +9,8 @@ book.
 
 ## Content of the repository
 
-* `[code.R](code.R)` is the file you can use to follow along with the talk
-* `[solutions.R](solutions.R)` is the file for the code that used during the tutorial. It also
+* [`code.R`](code.R) is the file you can use to follow along with the talk
+* [`solutions.R`](solutions.R) is the file for the code that used during the tutorial. It also
   includes a few extra practice exercises and answers to questions that were
   asked at the tutorial.
 
