@@ -12,7 +12,7 @@ book.
 * [`code.R`](code.R) is the file you can use to follow along with the talk
 * [`solutions.R`](solutions.R) is the file for the code that used during the tutorial. It also
   includes a few extra practice exercises and answers to questions that were
-  asked at the tutorial.
+  asked during the tutorial.
 
 The [slides](https://docs.google.com/presentation/d/e/2PACX-1vTLPVZWcJH-1e3KxMrIx14ab8KFTGL1pw2eQJDziEI3-8cyuvUxCkFFEXhJ9-YmnvbxTD4thiRt9QQF/pub?start=false&loop=false&delayms=10000) for the tutorial are available.
 
